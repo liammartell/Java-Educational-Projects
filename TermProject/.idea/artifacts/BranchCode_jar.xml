@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BranchCode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BranchCode_jar</output-path>
+    <root id="archive" name="BranchCode.jar">
+      <element id="module-output" name="BranchCode" />
+    </root>
+  </artifact>
+</component>
